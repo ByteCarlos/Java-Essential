@@ -1,4 +1,3 @@
-package Modulo_1;
 //a função main()
 
 //Linguagem orientada a objetos

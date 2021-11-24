@@ -1,4 +1,3 @@
-package Modulo_1;
 //Quando compilamos um programa em Java, diferente da linguagem C,
 //O compilador gera um arquivo intermediario chamado bytecode com extensão .class,
 //diferente de C que gera um .exe, que pode ser inicializado em qualquer SO. 
