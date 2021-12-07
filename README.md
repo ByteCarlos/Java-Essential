@@ -8,3 +8,4 @@ Módulo 4 - Tipos de dados<br/>
 Módulo 5 - Vetores e Matrizes<br/>
 Módulo 6 - Funções<br/>
 Módulo 7 - Orientação a Objetos<br/>
+Módulo 8 - Pacotes<br/>
