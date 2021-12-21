@@ -1,0 +1,9 @@
+O executável é o geek.jar
+
+Para executar basta abrir o Terminal ou Cmd na pasta do arquivo
+e digitar:
+"java -jar geek.jar"
+
+Assim o programa é compilado
+
+ATENÇÃO: EU GEREI ESSE .JAR COM O ECLIPSE POIS AINDA NÃO SEI COMO FAZER NO VSCODE!

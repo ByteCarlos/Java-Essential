@@ -1,22 +1,4 @@
-/*
-Getters e Setters
-
-Getter
-    - é um método público, que serve para consultar dados;
-    - A nomenclatura desses métodos é get_nome_do_atributo();
-*/
-
-//Public
-
-/*
-Público - Pode ser utilizado em todo o projeto
-*/
-
-//Private
-
-/*
-Privado à própria classe
-*/
+package Executaveis.src;
 
 public class Conta {
     private int numero;
@@ -45,8 +27,9 @@ public class Conta {
             if(val_ret < 0) {
                 this.saldo = 0;
             }
-            val_ret = this.limite - val_ret;
+            val_ret = this.limite + val_ret;
             this.limite = val_ret;
+            System.out.println("Saque realizado com sucesso");
         }else{
             System.out.println("Saldo insuficiente");
         }
@@ -57,7 +40,14 @@ public class Conta {
         this.saldo = this.saldo + valor;
     }
 
-    //Método getter do atributo Saldo
+
+    //Transformando um comentário em um
+    /**
+     * 
+     * Método getter do atributo Saldo
+     * 
+     * @return a soma do saldo + limite
+     */
     public float getSaldo() {
         return this.saldo + this.limite;
     }
