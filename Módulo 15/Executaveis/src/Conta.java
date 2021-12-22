@@ -66,4 +66,21 @@ public class Conta {
     public Cliente getCliente() {
         return this.cliente;
     }
+
+
+    //Métodos para o módulo 16
+    @Override
+    public String toString() {
+        return "O saldo da conta é " + this.getSaldo();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if(!(obj instanceof Conta)) { //verifica se o objeto é uma instância de Conta, senao for retorna false
+            return false;
+        }else {
+            Conta verificar = (Conta) obj; //Cast
+            return verificar.getSaldo() == this.getSaldo();
+        }
+    }
 }
