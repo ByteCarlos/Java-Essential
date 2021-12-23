@@ -8,7 +8,7 @@ import java.util.Scanner;
 */
 public class Main {
 
-    static Cliente cliente = new Cliente("Angelina Jolie", "Rua da paz, 45");
+    static Cliente cliente = new Cliente(18, "Angelina Jolie", "Rua da paz, 45");
     static Conta conta = new Conta(1, 200, 300, cliente);
     static Scanner teclado = new Scanner(System.in);
 

@@ -8,8 +8,8 @@ import Executaveis.src.*;
 
 public class Main {
     public static void main(String[] args) {
-        Cliente cli1 = new Cliente("Carlos", "Rua A");
-        Cliente cli2 = new Cliente("Maria", "Rua B");
+        Cliente cli1 = new Cliente(17, "Carlos", "Rua A");
+        Cliente cli2 = new Cliente(19, "Maria", "Rua B");
 
         Conta c1 = new Conta(1, 200, 300, cli1);
         Conta c2 = new Conta(2, 200, 300, cli2);
