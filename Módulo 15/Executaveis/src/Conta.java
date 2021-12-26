@@ -35,10 +35,23 @@ public class Conta {
         }
     }
 
+    //Utilidade no Módulo 18 (Threads)
+
+    //Forma 1 
     //Método para depositar dinheiro na conta
     public void depositar(float valor) {
+        //serve para o módulo 18
+        synchronized (this) {
+            this.saldo = this.saldo + valor;
+        }
+    }
+
+    //Forma 2
+    /* 
+    public synchronized void depositar(float valor){ 
         this.saldo = this.saldo + valor;
     }
+    */
 
 
     //Transformando um comentário em um
