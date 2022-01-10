@@ -1,4 +1,4 @@
-package Default_methods.src;
+package Classes_anonimas.src;
 
 /**
  * A gente está criando nosso próprio comparador de objetos (Strings)

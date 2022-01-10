@@ -5,8 +5,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.function.Consumer;
 
-import Default_methods.src.ComparadorPorTamanho;
-
 //Classes Anônimas
 /**
  * Classes Anônimas são classes sem nome.
