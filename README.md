@@ -1,25 +1,25 @@
-# Aulas_Java
-Aulas de Programação em Java
-Todos os módulos que estão organizados em projetos<br/>
-os códigos fonte estão no "Módulo/Assunto/src"<br/>
+# Programming in Java
+Java Programming Classes
+All modules that are organized into projects<br/>
+the source codes are in "Module/Subject/src"<br/>
 
-Módulo 1 - Variáveis, Compilador e Bytecode<br/>
-Módulo 2 - Estruturas de decisão<br/>
-Módulo 3 - Estruturas de repetição<br/>
-Módulo 4 - Tipos de dados<br/>
-Módulo 5 - Vetores e Matrizes<br/>
-Módulo 6 - Funções<br/>
-Módulo 7 - Orientação a Objetos<br/>
-Módulo 8 - Pacotes<br/>
-Módulo 9 - Modificadores de Acesso<br/>
-Módulo 10 - Herança e Polimorfismo<br/>
-Módulo 11 - Classes abstratas<br/>
-Módulo 12 - Interfaces<br/>
-Módulo 13 - Atributos e Métodos Estáticos<br/>
-Módulo 14 - Tratamentos de erros<br/>
-Módulo 15 - Executáveis e Documentação<br/>
-Módulo 16 - Conhecendo a Java Lang<br/>
-Módulo 17 - Collections<br/>
-Módulo 18 - Threads em Java<br/>
-Módulo 19 - Estrutura de Dados em Java<br/>
-Módulo 20 - Recursos Avançados<br/>
+Module 1 - Variables, Compiler and Bytecode<br/>
+Module 2 - Decision Structures<br/>
+Module 3 - Repetition Structures<br/>
+Module 4 - Data Types<br/>
+Module 5 - Vectors and Matrices<br/>
+Module 6 - Functions<br/>
+Module 7 - Object Orientation<br/>
+Module 8 - Packages<br/>
+Module 9 - Access Modifiers<br/>
+Module 10 - Inheritance and Polymorphism<br/>
+Module 11 - Abstract Classes<br/>
+Module 12 - Interfaces<br/>
+Module 13 - Static Attributes and Methods<br/>
+Module 14 - Error Handling<br/>
+Module 15 - Executables and Documentation<br/>
+Module 16 - Getting to Know Java Lang<br/>
+Module 17 - Collections<br/>
+Module 18 - Threads in Java<br/>
+Module 19 - Data Structure in Java<br/>
+Module 20 - Advanced Features<br/>
