@@ -1,5 +1,5 @@
 # Programming in Java
-Java Programm ing Classes
+Java Programming Classes
 All modules that are organized into projects<br/>
 the source codes are in "Module/Subject/src"<br/>
 
