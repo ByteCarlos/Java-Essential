@@ -28,3 +28,8 @@ Module 20 - Advanced Features<br/>
 - Creating a desktop application<br/>
 - Creating an installer for your program on Windows<br/>
 - Debugging your program<br/>
+
+# Projects
+- Game
+- Market
+- Bank
