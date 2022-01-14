@@ -23,6 +23,8 @@ Module 17 - Collections<br/>
 Module 18 - Threads in Java<br/>
 Module 19 - Data Structure in Java<br/>
 Module 20 - Advanced Features<br/>
-The Extra Content - Creating a desktop application<br/>
-                  - Creating an installer for your program on Windows<br/>
-                  - Debugging your program<br/>
+
+# The Extra Content<br/> 
+- Creating a desktop application<br/>
+- Creating an installer for your program on Windows<br/>
+- Debugging your program<br/>
