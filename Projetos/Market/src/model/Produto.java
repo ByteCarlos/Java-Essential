@@ -1,6 +1,6 @@
-package Mercado.src.model;
+package Market.src.model;
 
-import Mercado.src.helper.Utils;
+import Market.src.helper.Utils;
 
 public class Produto {
 	private static int contador = 1;

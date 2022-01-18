@@ -1,4 +1,4 @@
-package Mercado.src.view;
+package Market.src.view;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,8 +6,8 @@ import java.util.InputMismatchException;
 import java.util.Map;
 import java.util.Scanner;
 
-import Mercado.src.helper.Utils;
-import Mercado.src.model.Produto;
+import Market.src.helper.Utils;
+import Market.src.model.Produto;
 
 public class Mercado {
 	
