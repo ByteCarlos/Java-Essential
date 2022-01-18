@@ -1,8 +1,8 @@
-package model;
+package Bank.src.model;
 
 import java.util.Date;
 
-import helper.Utils;
+import Bank.src.helper.Utils;
 
 public class Cliente {
     private static int contador = 101;

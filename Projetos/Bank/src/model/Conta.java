@@ -1,6 +1,6 @@
-package model;
+package Bank.src.model;
 
-import helper.Utils;
+import Bank.src.helper.Utils;
 
 public class Conta {
     private static int codigo = 101;
